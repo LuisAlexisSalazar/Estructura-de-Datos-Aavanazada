@@ -1,3 +1,0 @@
-C:/Users/Admin/Desktop/Nueva carpeta/build/CMakeFiles/octree.dir
-C:/Users/Admin/Desktop/Nueva carpeta/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Admin/Desktop/Nueva carpeta/build/CMakeFiles/ZERO_CHECK.dir
